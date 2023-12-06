@@ -47,7 +47,7 @@ body {
 }
 .conteudo{
     display: block;
-    margin-bottom: 250px;
+    margin-bottom: 50px;
 }
 .descricao-tabela{
     color: rgb(0, 0, 0);
@@ -267,4 +267,17 @@ fieldset{
         margin-bottom: 30px;
     }
    
+    aside{
+        display: block;
+       }
+       /* .container{
+        margin-bottom: 10px;
+       } */
+       .tamanho a > img{
+        width: 150px;
+        border: 1px solid black;
+       }
+       .relacionados{
+        flex-wrap: wrap;
+       }
  }
